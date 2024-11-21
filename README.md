@@ -1,38 +1,54 @@
-<div align="center">
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+# 👋 Hello, I'm Magdy Yasser!  
+### *Cybersecurity Student | Aspiring Red Team Operator | Gamer*
+
+---
+
+
+  <a href="https://www.linkedin.com/in/magdy-khalil/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://tryhackme.com/r/p/MagdyKhalil" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/cloud.png" width="50" height="50" alt="TryHackMe" />
   </a>
-  <a href="https://www.linkedin.com/in/magdy-khalil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://tryhackme.com/r/p/MagdyKhalil">
-    <img src="https://img.shields.io/badge/TryHackMe-00AD6C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://magdy-00.github.io/Magdy-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  <a href="https://magdy-00.github.io/Magdy-portfolio/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
+## 🛠 Tools & Technologies I Use
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" width="50" height="50" alt="XAMPP" />
+</div>
 
+---
 
+## About Me 🧑‍💻
+I’m a **3rd-year Cybersecurity student** at Beni-Suef National University with a passion for ethical hacking, penetration testing, and all things tech. Currently diving deep into **web app penetration testing** and **backend development** using **Laravel**.
 
+💡 **Interests:**
+- Ethical Hacking & Red Teaming
+- Web Development
+- Capture The Flag (CTF) Competitions
+- Soulsborne Games & Anime  
 
-<!--
-**Magdy-00/Magdy-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Favorite Games:**
+- Dark Souls Series
+- Sekiro: Shadows Die Twice
+- Spider-Man: Miles Morales
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect!
+- **Medium:** [magdyyasser24](https://medium.com/@magdyyasser24)
+- **LinkedIn:** [Magdy Khalil](https://www.linkedin.com/in/magdy-khalil/)
+- **TryHackMe:** [MagdyKhalil](https://tryhackme.com/r/p/MagdyKhalil)
+- **Portfolio:** [Visit Here](https://magdy-00.github.io/Magdy-portfolio/)
