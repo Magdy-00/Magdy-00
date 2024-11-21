@@ -1,29 +1,20 @@
-# Hi there, I'm Magdy Yasser Mahmoud Khalil 👋
-
-I'm a 3rd-year cybersecurity student at Beni-Suef National University, passionate about ethical hacking and web development. I'm also an aspiring Red Team Operator with an interest in security testing, certifications, and creating impactful projects.
-
-- 🔭 Currently working on improving my **penetration testing** skills .
-- 🌱 I'm currently learning about **Reverse Engineering**, **Cryptography**, and **Network Security**.
-- 💬 Ask me about **ethical hacking**, **CTF challenges**, or **game development** (I love Soulsborne games like Dark Souls and Sekiro!).
-- 📫 Reach out to me via **Discord**, **LinkedIn**, or **TryHackMe**.
-
-### My Tech Stack
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](https://www.linux.org)
-[![XAMPP](https://img.shields.io/badge/XAMPP-D32F2F?logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-00AD6C?logo=tryhackme&logoColor=white)]((https://tryhackme.com/r/p/MagdyKhalil))
-
-### Find me on
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=githubpages&logoColor=white)](https://magdy-00.github.io/Magdy-portfolio/)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@magdyyasser24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdy-khalil/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-00AD6C?logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/MagdyKhalil)
-
-
-
+<div align="center">
+  <a href="https://www.youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/magdy-khalil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tryhackme.com/r/p/MagdyKhalil">
+    <img src="https://img.shields.io/badge/TryHackMe-00AD6C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://magdy-00.github.io/Magdy-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ---
 
