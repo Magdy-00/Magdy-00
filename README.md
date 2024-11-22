@@ -3,15 +3,15 @@
 
 ---
 
-
+<div align="center">
   <a href="https://www.linkedin.com/in/magdy-khalil/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com/r/p/MagdyKhalil" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/cloud.png" width="50" height="50" alt="TryHackMe" />
+    <img src="https://yt3.googleusercontent.com/hfBAf9-rRBuMN_Iu9WMN2MxWj27rFjQAs8JsDGyNcRjw1C5Gmf8ep1DJc_Mc27vCASRe2VdTStg=s900-c-k-c0x00ffffff-no-rj" width="50" height="50" alt="TryHackMe" />
   </a>
   <a href="https://magdy-00.github.io/Magdy-portfolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="Portfolio" />
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="50" height="50" alt="Portfolio" />
   </a>
 </div>
 
@@ -22,11 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="50" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" width="50" height="50" alt="XAMPP" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjnPXl0JAEgpWr9yolLzBo5kkRb73s2LC9HZbJgxoEXUlPD_j_8XRTTuXaPofT5VboKI&usqp=CAU" width="50" height="50" alt="Laravel" />
+  
 </div>
 
 ---
