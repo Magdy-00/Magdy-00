@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Magdy Yasser!  
-### *Cybersecurity Student | Aspiring Red Team Operator | Gamer*
+# 👋 Hello, I'm Magdy!  
+### *Cybersecurity Student | Aspiring Red Team Operator | Pentester*
 
 ---
 
@@ -38,12 +38,6 @@ I’m a **3rd-year Cybersecurity student** at Beni-Suef National University with
 - Ethical Hacking & Red Teaming
 - Web Development
 - Capture The Flag (CTF) Competitions
-- Soulsborne Games & Anime  
-
-🎮 **Favorite Games:**
-- Dark Souls Series
-- Sekiro: Shadows Die Twice
-- Spider-Man: Miles Morales
 
 ---
 
@@ -52,3 +46,5 @@ I’m a **3rd-year Cybersecurity student** at Beni-Suef National University with
 - **LinkedIn:** [Magdy Khalil](https://www.linkedin.com/in/magdy-khalil/)
 - **TryHackMe:** [MagdyKhalil](https://tryhackme.com/r/p/MagdyKhalil)
 - **Portfolio:** [Visit Here](https://magdy-00.github.io/Magdy-portfolio/)
+
+  <img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" />
