@@ -1,50 +1,31 @@
-# 👋 Hello, I'm Magdy!  
-### *Cybersecurity Student | Aspiring Red Team Operator | Pentester*
+<h1 align="center">Hi, I'm Magdy Khalil</h1>
+<h3 align="center">A passionate Cyber Security Engineer</h3>
 
----
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magdy-00" alt="magdy-00" /></a> </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/magdy-khalil/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com/r/p/MagdyKhalil" target="_blank">
-    <img src="https://yt3.googleusercontent.com/hfBAf9-rRBuMN_Iu9WMN2MxWj27rFjQAs8JsDGyNcRjw1C5Gmf8ep1DJc_Mc27vCASRe2VdTStg=s900-c-k-c0x00ffffff-no-rj" width="50" height="50" alt="TryHackMe" />
-  </a>
-  <a href="https://magdy-00.github.io/Magdy-portfolio/" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="50" height="50" alt="Portfolio" />
-  </a>
-</div>
+- I’m currently a student in **Beni-Suef National University**
 
----
+- I’m **Cybersecurity Student | Aspiring Red Team Operator | Pentester**
 
-## 🛠 Tools & Technologies I Use
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="50" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjnPXl0JAEgpWr9yolLzBo5kkRb73s2LC9HZbJgxoEXUlPD_j_8XRTTuXaPofT5VboKI&usqp=CAU" width="50" height="50" alt="Laravel" />
-  
-</div>
+- All of my projects are available at [https://magdy-00.github.io/Magdy-portfolio/](https://magdy-00.github.io/Magdy-portfolio/)
 
----
+- I regularly write articles on [https://medium.com/@magdyyasser24](https://medium.com/@magdyyasser24)
 
-## About Me 🧑‍💻
-I’m a **3rd-year Cybersecurity student** at Beni-Suef National University with a passion for ethical hacking, penetration testing, and all things tech. Currently diving deep into **web app penetration testing** and **backend development** using **Laravel**.
+- How to reach me **magdyyasser24@gmail.com**
 
-💡 **Interests:**
-- Ethical Hacking & Red Teaming
-- Web Development
-- Capture The Flag (CTF) Competitions
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@magdyyasser24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@magdyyasser24" height="30" width="40" /></a>
+</p>
 
-## 🔗 Let's Connect!
-- **Medium:** [magdyyasser24](https://medium.com/@magdyyasser24)
-- **LinkedIn:** [Magdy Khalil](https://www.linkedin.com/in/magdy-khalil/)
-- **TryHackMe:** [MagdyKhalil](https://tryhackme.com/r/p/MagdyKhalil)
-- **Portfolio:** [Visit Here](https://magdy-00.github.io/Magdy-portfolio/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  <img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy-00&show_icons=true&locale=en&layout=compact" alt="magdy-00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magdy-00&show_icons=true&locale=en" alt="magdy-00" /></p>
+
