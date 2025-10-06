@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Cyber Security Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magdy-00" alt="magdy-00" /></a> </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Magdy-00.Magdy-00&"  />
-<br>
+
 
 - I’m currently a student in **Beni-Suef National University**
 
